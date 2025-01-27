@@ -1,1 +1,1 @@
-1.สร้าง Tabbed Activity โดยการคลิกขวาที่ชื่อแพคเกจ th.ac.stou.sukhobook แล้วเลือก New > Activity > Tabbed Activity
+[Blue Purple Futuristic Modern 3D Tech Company Business Presentation_compressed.pdf](https://github.com/user-attachments/files/18552502/Blue.Purple.Futuristic.Modern.3D.Tech.Company.Business.Presentation_compressed.pdf)
