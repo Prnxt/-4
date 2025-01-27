@@ -3,8 +3,12 @@
 ## 4.2 องค์ประกอบชนิดชิ้นส่วนหน้าจอ 
 ### 4.2.4 การใช้งานรูปภาพในแอปพลิเคชันร้านหนังสือ
 
-[การใช้งานรูปภาพในแอปพลิเคชันร้านหนังสือ](https://github.com/user-attachments/files/18552597/Blue.Purple.Futuristic.Modern.3D.Tech.Company.Business.Presentation.1.pdf)
+[ขั้นตอนการใช้งานรูปภาพในแอปพลิเคชันร้านหนังสือ](https://github.com/user-attachments/files/18552597/Blue.Purple.Futuristic.Modern.3D.Tech.Company.Business.Presentation.1.pdf)
 
+## 4.3 การทำงานแบบขับเคลื่อนด้วยเหตุการณ์
+### 4.3.2 การใช้งานอีเวนต์ในแอปพลิเคชันร้านหนังสือ
+
+[ขั้นตอนการใช้งานอีเวนต์ในแอปพลิเคชันร้านหนังสือ](https://github.com/user-attachments/files/18552635/Blue.Purple.Futuristic.Modern.3D.Tech.Company.Business.Presentation.2.pdf)
 
 
 ## 4.4 องค์ประกอบชนิดชิ้นส่วนหน้าจอ
