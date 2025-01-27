@@ -5,6 +5,8 @@
 
 [การใช้งานรูปภาพในแอปพลิเคชันร้านหนังสือ](https://github.com/user-attachments/files/18552597/Blue.Purple.Futuristic.Modern.3D.Tech.Company.Business.Presentation.1.pdf)
 
+
+
 ## 4.4 องค์ประกอบชนิดชิ้นส่วนหน้าจอ
 ### 4.4.3 การใช้งานชิ้นส่วนหน้าจอในแอปพลิเคชันร้านหนังสือ
 
