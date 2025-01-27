@@ -1,1 +1,3 @@
-[Blue Purple Futuristic Modern 3D Tech Company Business Presentation_compressed.pdf](https://github.com/user-attachments/files/18552502/Blue.Purple.Futuristic.Modern.3D.Tech.Company.Business.Presentation_compressed.pdf)
+4.4 องค์ประกอบชนิดชิ้นส่วนหน้าจอ
+    4.4.3 การใช้งานชิ้นส่วนหน้าจอในแอปพลิเคชันร้านหนังสือ
+[4.4.3 ขั้นตอนการใช้งานชิ้นส่วนหน้าจอในแอปพลิเคชันร้านหนังสือ.pdf](https://github.com/user-attachments/files/18552529/4.4.3.pdf)
